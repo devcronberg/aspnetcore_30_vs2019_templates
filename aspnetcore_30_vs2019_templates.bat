@@ -1,4 +1,5 @@
 set /p navn="Name: "
+c:
 cd\temp
 mkdir template
 cd template
