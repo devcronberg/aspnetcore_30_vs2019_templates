@@ -1,5 +1,7 @@
+@echo off
 set /p navn="Name: "
 c:
+if not exist "c:\temp\" mkdir "c:\temp"
 cd\temp
 mkdir template
 cd template
