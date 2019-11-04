@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace aspnetcore_30_vs2019_templates
+namespace MyAspCore3App
 {
     public class Program
     {

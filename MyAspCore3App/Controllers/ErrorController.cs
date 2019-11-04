@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace AspNetCore30_vs2019_templates
+namespace MyAspCore3App
 {
     public class ErrorController : Controller
     {

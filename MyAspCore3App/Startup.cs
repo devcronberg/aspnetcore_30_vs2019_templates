@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-namespace aspnetcore_30_vs2019_templates
+namespace MyAspCore3App
 {
     public class Startup
     {
