@@ -10,4 +10,3 @@ cd %navn%
 xcopy /s C:\temp\template\aspnetcore_30_vs2019_templates c:\temp\%navn%
 del .git*.*
 rmdir /q /s c:\temp\template\
-start .
